@@ -1,0 +1,18 @@
+version: '3.3'
+
+services:
+    server:
+        container_name: server
+        image: openjdk:8-jdk-alpine
+        # build: 
+        #     context: ./Server
+        #     dockerfile: ../Dockerfile
+        ports: 
+            - 80:80
+        volume:
+            - ./server:/var/app
+        command: "ping 8.8.8.8"
+        # command: 
+        #     - java
+        #     - -jar
+        #     - /app/server-boot-application.jar

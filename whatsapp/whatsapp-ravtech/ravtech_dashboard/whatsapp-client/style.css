@@ -1,0 +1,72 @@
+.myWhatsapp{
+    margin: auto;
+    text-align: center;
+    width: 50vw;
+    height: 16vh;
+    background-color: rgb(2, 113, 133);
+}
+
+
+.title{
+    padding-top: 30px;
+}
+
+h4{
+    cursor: pointer;
+}
+
+
+.content{
+    direction: rtl;
+    margin: auto;
+    background-color: rgb(244, 248, 248);
+    width: 50vw;
+    height: 60vh;
+    background-color: aqua;
+
+    /* border: solid 1px; */
+}
+
+.list-select{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
+
+textarea{
+    width: 49.6vw;
+    height: 10vh;
+}
+
+.send-message{
+    display: none
+}
+
+.msgName{
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.wrapMessage{
+    height: 60px;
+    padding-top: 10px;
+}
+
+#spanName{
+    padding-right: 20px;
+    width: 80%;
+    text-align: right
+}
+#spanHour{
+    padding-right: 30px
+}
+
+.msgText{
+    width: 80%;
+    text-align: right;
+}
+#msgText{
+    padding-right: 20px;
+
+}

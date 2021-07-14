@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RTMessenger">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ravtech_dashboard/server/out/artifacts/RTMessenger_jar/RTMessenger.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
