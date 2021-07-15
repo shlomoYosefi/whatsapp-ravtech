@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73e2f4f2-deed-4110-aa74-a0b322913a2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-client/login/logIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/whatsapp/whatsapp-client/login/logIn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-client/register/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/whatsapp/whatsapp-client/register/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-client/whatsapp/functionsToHtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/whatsapp/whatsapp-client/whatsapp/functionsToHtml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-client/whatsapp/service.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/whatsapp/whatsapp-client/whatsapp/service.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/.idea/libraries/RTMessenger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/.idea/libraries/libraries.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/DBjson/grups.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/DBjson/message.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/DBjson/messagesGrup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/DBjson/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/FunctionsStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/RTMessenger$urlsUsers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/RTMessenger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/controller/ControllerLogInRegister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/controller/ControllerMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/controller/ControllerUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/helpers/ConnectionStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/helpers/HttpManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/http/handlers/LogInHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/http/handlers/MessagesHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/http/handlers/RegisterHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/http/handlers/StaticHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/http/handlers/UsersHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/http/handlers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/interfaces/IsClassValid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/model/Message/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/model/Message/MessageGrup$DBMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/model/Message/MessageGrup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/model/Message/MessageSingel$DBMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/model/Message/MessageSingel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/model/User/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/model/User/UserOfWhatsapp$DBUserOfWhatsapp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/model/User/UserOfWhatsapp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/model/User/UserOfWhatsappGrup$DBUserOfWhatsappGrup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/model/User/UserOfWhatsappGrup$templetAddUserGrup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/out/production/ravtech_dashboard (1)/com/ravtech/model/User/UserOfWhatsappGrup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard (1).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/RTMessenger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/assets/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/out/artifacts/RTMessenger_jar/RTMessenger.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/DBjson/grups.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/DBjson/message.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/DBjson/messagesGrup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/DBjson/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/FunctionsStatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/RTMessenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/controller/ControllerLogInRegister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/controller/ControllerMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/controller/ControllerUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/helpers/ConnectionStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/helpers/HttpManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/helpers/Jwt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/http/handlers/LogInHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/http/handlers/MessagesHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/http/handlers/RegisterHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/http/handlers/StaticHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/http/handlers/UsersHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/http/handlers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/interfaces/IsClassValid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/model/Message/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/model/Message/MessageGrup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/model/Message/MessageSingel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/model/User/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/model/User/UserOfWhatsapp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/server/src/com/ravtech/model/User/UserOfWhatsappGrup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/whatsapp-client/functionsToHtml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/whatsapp-client/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/whatsapp-client/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/whatsapp-client/logIn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/whatsapp-client/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/whatsapp-client/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/whatsapp-client/service.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatsapp/whatsapp-ravtech/ravtech_dashboard/whatsapp-client/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vLRfLekFGl2stj0Vk3e3wrk9Jn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/whatsapp/whatsapp-server-java" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73e2f4f2-deed-4110-aa74-a0b322913a2b" name="Default Changelist" comment="" />
+      <created>1626339484932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626339484932</updated>
+    </task>
+    <servers />
+  </component>
+</project>

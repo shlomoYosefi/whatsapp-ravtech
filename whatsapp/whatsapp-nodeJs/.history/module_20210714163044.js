@@ -1,0 +1,4 @@
+
+function parseUrl(req,res){
+    
+}
