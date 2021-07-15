@@ -1,6 +1,6 @@
 // import { getAllMessagesByUserService } from "./service.mjs";
 
-const urlMessages = "http://localhost:82/messages/"
+const urlMessages = "http://localhost:3000/messages/"
 const urlUsers = "http://localhost:82/users/";
 
 
